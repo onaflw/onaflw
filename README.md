@@ -11,6 +11,11 @@
 
 <br>
 
+## Experiences
+- KORUS Advanced Industries Youth Exchange Scholar
+
+<br>
+
 ## Projects
 - [H&S Biolab](https://github.com/H-S-Biolab/HnSbiolab_3.0): Development of a Digital Healthcare Platform for Kidney Disease Mangament
 
