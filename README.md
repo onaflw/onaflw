@@ -12,7 +12,7 @@
 <br>
 
 ## Projects
-- [H&S Biolab](https://github.com/H-S-Biolab/HnSbiolab_3.0): 신장질환 건강관리를 위한 디지털 헬스케어 플랫폼 개발
+- [H&S Biolab](https://github.com/H-S-Biolab/HnSbiolab_3.0): Development of a Digital Healthcare Platform for Kidney Disease Mangament
 
 <br>
 
